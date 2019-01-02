@@ -2,30 +2,30 @@ essentials:
   disable_autorotation: True
   screens:
     - camera_streams:
-        - url: "rtsp://192.168.1.102:7447/5c1763c2e4b0efb55d9bb36f_1"
+        - url: "rtsp://192.168.1.102:7447/5a75500ae4b07ebd3afb6c7e_1"
           rtsp_over_tcp: true
-        - url: "rtsp://192.168.1.102:7447/5b94cda7e4b0499860633c6c_1"
+        - url: "rtsp://192.168.1.102:7447/5a73a7d2e4b07ebd3afb47e4_1"
           rtsp_over_tcp: true
-        - url: "rtsp://192.168.1.102:7447/5b94cda9e4b0499860633c6d_1"
+        - url: "rtsp://192.168.1.102:7447/5b94a529e4b01e2e39153cce_1"
           rtsp_over_tcp: true
-        - url: "rtsp://192.168.1.102:7447/5b94cdabe4b0499860633c6e_1"
+        - url: "rtsp://192.168.1.102:7447/5b1ca0e8e4b04998f0612a6a_1"
           rtsp_over_tcp: true
       nr_of_columns: "2"
 
     - camera_streams:
-        - url: "rtsp://192.168.1.102:7447/5c1763c2e4b0efb55d9bb36f_1"
+        - url: "rtsp://192.168.1.102:7447/5a75500ae4b07ebd3afb6c7e_1"
           rtsp_over_tcp: true
 
     - camera_streams:
-        - url: "rtsp://192.168.1.102:7447/5b94cda7e4b0499860633c6c_1"
+        - url: "rtsp://192.168.1.102:7447/5a73a7d2e4b07ebd3afb47e4_1"
           rtsp_over_tcp: true
 
     - camera_streams:
-        - url: "rtsp://192.168.1.102:7447/5b94cda9e4b0499860633c6d_1"
+        - url: "rtsp://192.168.1.102:7447/5b94a529e4b01e2e39153cce_1"
           rtsp_over_tcp: true
  
     - camera_streams:
-        - url: "rtsp://192.168.1.102:7447/5b94cdabe4b0499860633c6e_1"
+        - url: "rtsp://192.168.1.102:7447/5b1ca0e8e4b04998f0612a6a_1"
           rtsp_over_tcp: true
 
 #!!!Normal users do not need to edit this section!!!
